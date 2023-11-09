@@ -28,6 +28,13 @@ Module not found: Error: Can't resolve '@fortawesome/fontawesome-svg-core' in '/
 run : 
 ```npm install --save @fortawesome/react-fontawesome @fortawesome/free-brands-svg-icons```
 
+for the error related to node-sass:
+npm ERR! gyp ERR! command "C:\\Program Files\\nodejs\\node.exe" "D:\\office\\project\\snaprr\\client\\node_modules\\node-gyp\\bin\\node-gyp.js" "rebuild" "--verbose" "--libsass_ext=" "--libsass_cflags=" "--libsass_ldflags=" "--libsass_library="
+npm ERR! gyp ERR! cwd D:\office\project\snaprr\client\node_modules\node-sass
+run this command:
+```npm install node-sass --ignore-scripts```
+after this try npm install
+
 
 Technologies
 Our project utilizes the following technologies:
