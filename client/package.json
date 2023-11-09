@@ -1,5 +1,5 @@
 {
-  "name": "npm-run-dev-devsprints",
+  "name": "npm-run-dev",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
